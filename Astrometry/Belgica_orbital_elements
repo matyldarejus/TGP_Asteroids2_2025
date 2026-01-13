@@ -1,0 +1,27 @@
+Orbital elements:  Belgica
+   Perihelion 2026 Feb 2.94719 +/- 0.557 TT = 22:43:57 (JD 2461074.44719)
+Epoch 2025 Oct 22.0 TT = JDT 2460970.5   Earth MOID: 0.8665      Find_Orb
+M 341.17589135 +/- 2.7              (J2000 ecliptic)
+n   0.18109299 +/- 0.0254           Peri.  319.06671 +/- 4.2
+a   3.09410427 +/- 0.289            Node    89.08185 +/- 1.9
+e   0.4009427 +/- 0.072             Incl.    4.81440 +/- 0.016
+P   5.44255         
+q 1.85354564 +/- 0.0498    Q 4.33466289 +/- 0.628
+From 3 observations 2025 Oct. 9-22; mean residual 2".3e-003
+# State vector (heliocentric equatorial J2000):
+#   +2.015169155654  +0.162182741735  -0.114503432586 AU
+#   -3.717936293361 +12.269471314763  +5.680615232292 mAU/day
+# MOIDs: Me  1.537369 Ve  1.131194 Ea  0.866488 Ma  0.374781
+# MOIDs: Ju  1.081878 Sa  5.514233 Ur 14.236196 Ne 25.994952
+# 1 oppositions
+# Elements written: 13 Jan 2026 11:59:51 (JD 2461053.999898)
+# Full range of obs: 2025 Oct. 9-22 (3 observations)
+# Find_Orb ver: 2025 Nov 24
+# Perturbers: 00000000 (unperturbed orbit);  not using JPL DE
+# Tisserand relative to Jupiter: 3.08957
+# Score: -0.199335
+#  $Name=Belgica  $Ty=2026  $Tm=02  $Td=02.947192  $MA=341.17589
+#  $ecc=0.4009427  $Eqnx=2000.
+#  $a=3.0941043  $Peri=319.06671  $Node=89.08185  $Incl=4.81440
+#  $EpJD=2460970.500  $q=1.853546  $T=2461074.447193  $H=0.0
+# Sigmas avail: 1
